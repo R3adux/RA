@@ -15,3 +15,4 @@ Installation:
 Dependencies:
 
     none (just RP-1)
+<img width="1100" height="1500" alt="KCT-Resizer" src="https://github.com/user-attachments/assets/0e81dbda-a47a-4b50-9bf0-4f172978b197" />
